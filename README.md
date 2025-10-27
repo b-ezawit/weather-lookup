@@ -2,11 +2,7 @@
 # Weather-lookup
 
 A lightweight two-page website that displays current weather conditions based on the city name entered by the user. Built with HTML, CSS, and JavaScript, it fetches real-time weather data from a public API for a simple and intuitive user experience.
-## Getting Started
 
-Certainly! Here’s a clear, explicit version of the README steps that **specifically states when and where to run `npm install`**:
-
-```markdown
 ## Getting Started
 
 1. **Clone the repository:**

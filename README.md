@@ -1,5 +1,5 @@
 
-# weather-lookup
+# Weather-lookup
 
 A lightweight two-page website that displays current weather conditions based on the city name entered by the user. Built with HTML, CSS, and JavaScript, it fetches real-time weather data from a public API for a simple and intuitive user experience.
 
@@ -44,5 +44,5 @@ To use this project locally, follow these steps:
 
 Here is a demo video showcasing the usage of this app:
 
-[[Watch the demo video](https://www.awesomescreenshot.com/video/45704263?key=b24a9b8f39ae4099edef395a1c9d06bf)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[[Watch the Demo Video](https://www.awesomescreenshot.com/video/45704263?key=b24a9b8f39ae4099edef395a1c9d06bf)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 ```

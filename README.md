@@ -2,43 +2,56 @@
 # Weather-lookup
 
 A lightweight two-page website that displays current weather conditions based on the city name entered by the user. Built with HTML, CSS, and JavaScript, it fetches real-time weather data from a public API for a simple and intuitive user experience.
-
 ## Getting Started
 
-To use this project locally, follow these steps:
+Certainly! Here’s a clear, explicit version of the README steps that **specifically states when and where to run `npm install`**:
+
+```markdown
+## Getting Started
 
 1. **Clone the repository:**
 
+   Open your terminal and run:
+
    ```bash
    git clone https://github.com/b-ezawit/weather-lookup.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   Change into the cloned repository folder:
+
+   ```bash
    cd weather-lookup
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
 
-   Make sure you have [Node.js](https://nodejs.org/) installed.
+   Run the following command **inside the `weather-lookup` directory** to install all required Node.js packages **before running the server**:
 
    ```bash
    npm install
    ```
 
-3. **Run the server:**
+4. **Run the server:**
+
+   Start the server by running:
 
    ```bash
    node index.js
    ```
 
-4. **Open your browser and visit:**
+5. **Open your browser and visit:**
 
    ```
    http://localhost:5000
    ```
 
-5. **Use the app:**
+6. **Use the app:**
 
    Enter a city name on the website to fetch and display current weather conditions.
 
----
+
 
 ## Demo Video
 

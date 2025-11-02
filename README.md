@@ -49,9 +49,5 @@ A lightweight two-page website that displays current weather conditions based on
 
 
 
-## Demo Video
 
-Here is a demo video showcasing the usage of this app:
-
-[[Watch the Demo Video](https://www.awesomescreenshot.com/video/45704263?key=b24a9b8f39ae4099edef395a1c9d06bf)]
 ```
